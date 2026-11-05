@@ -1,0 +1,5 @@
+# Ignorar todo el contenido de containers/ y volumes/, salvo sus .gitkeep
+/containers/*
+!/containers/.gitkeep
+/volumes/*
+!/volumes/.gitkeep
